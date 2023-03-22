@@ -169,6 +169,7 @@ final class Extra_Addons_For_Elementor {
 	    if ( is_page() && class_exists( 'Elementor\Plugin' ) && \Elementor\Plugin::$instance->db->is_built_with_elementor( get_the_ID() ) ) {
 	        wp_enqueue_style( 'fontawesome-5-12', EAFE_PLUGIN_URL . 'assets/css/fontawesome/fontawesome.css' );
 			wp_enqueue_style( 'eafe-style', EAFE_PLUGIN_URL . 'assets/css/style.css' );
+			wp_enqueue_style( 'product-grid-style', EAFE_PLUGIN_URL . 'assets/css/product-grid.css' );
 			wp_enqueue_script( 'masonry');
 			wp_enqueue_script( 'owl-carousel', EAFE_PLUGIN_URL . 'assets/js/owl-carousel.min.js', array( 'jquery' ), null, true );
 			wp_enqueue_script( 'imagesloaded.pkgd', EAFE_PLUGIN_URL . 'assets/js/imagesloaded.pkgd.min.js', array( 'jquery' ), null, true );
@@ -271,6 +272,7 @@ final class Extra_Addons_For_Elementor {
 		require_once( __DIR__ . '/widgets/extra-addon-book-layouts.php' );
 		require_once( __DIR__ . '/widgets/extra-addon-book-grid.php' );
 		require_once( __DIR__ . '/widgets/extra-addon-book-slider.php' );
+		require_once( __DIR__ . '/widgets/extra-addon-wc-products.php' );
 
 		// Register widget
 		\Elementor\Plugin::instance()->widgets_manager->register( new \Extra_Addon_Post_Layouts() );
@@ -283,6 +285,8 @@ final class Extra_Addons_For_Elementor {
 		\Elementor\Plugin::instance()->widgets_manager->register( new \Extra_Addon_Book_Layouts() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new \Extra_Addon_Book_Grid() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new \Extra_Addon_Book_Slider() );
+		//Numan
+		\Elementor\Plugin::instance()->widgets_manager->register( new \Product_Grid() );
 
 	}
 
