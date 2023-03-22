@@ -103,7 +103,6 @@ Yes, you can design slider with free version.
 You can design as many as you want. all options are available for design.
 
 
-
 == Screenshot ==
 
 = For Fast Support, Feature Request, and Bug Reporting =
