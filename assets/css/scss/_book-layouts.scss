@@ -1,0 +1,160 @@
+.eafe-book {
+    &-wrapper {
+        margin-bottom: 30px;
+
+        &.post-list-layout {
+            .eafe-book-thumbnail {
+                a {
+                    display: flex;
+                }
+            }
+
+            &.thumbnail-position-left {
+                a {
+                    justify-content: flex-start;
+                }
+            }
+
+            &.thumbnail-position-right {
+                a {
+                    justify-content: flex-end;
+                }
+            }
+        }
+    }
+
+    &-inner {
+        padding: 20px 0 0 0;
+    }
+
+    &-categories {
+        h6 {
+            margin: 0;
+            font-size: 1rem;
+            display: inline-block;
+
+            span.sep {
+                display: inline-block;
+                width: 5px;
+                margin: 0 15px;
+                height: 2px;
+                background: #000;
+                vertical-align: middle;
+            }
+
+            a {
+                color: #444;
+                font-weight: 400;
+                margin: 0 5px 5px 0;
+                padding: 0;
+                border-bottom: 1px solid #444;
+                display: inline-block;
+                transition: .4s;
+
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+
+    &-title {
+        h2 {
+            font-size: 1.3rem;
+            margin: 7px 0 10px 0;
+
+            a {
+                color: #000000;
+
+                &.border_on_hover {
+                    background: linear-gradient(to right, #fff 0%, #fff 100%);
+                    background-repeat: no-repeat;
+                    background-position: left 87%;
+                    display: inline;
+                    padding-bottom: 4px;
+                    background-size: 0% 3px;
+                    transition: .4s;
+
+                    &:hover {
+                        background-size: 100% 3px;
+                    }
+                }
+            }
+        }
+    }
+
+    &-author-name {
+        color: #444444;
+
+        a {
+            color: #444444;
+        }
+
+        strong {
+            color: #000000;
+            font-weight: 700;
+        }
+    }
+
+    &-descriptions {
+        color: #444444;
+        margin: 15px 0;
+
+        p {
+            margin-bottom: 12px;
+
+            &:last-child {
+                margin: 0 0 0 0;
+            }
+        }
+    }
+
+    &-price {
+        display: flex;
+        margin-top: 15px;
+        font-size: 1.3rem;
+
+        .regular-price.previous-price {
+            font-weight: 300;
+            text-decoration: line-through;
+            margin-right: 10px;
+            font-size: 90%;
+            align-self: center;
+            color: #444444;
+        }
+
+        .sale-price {
+            font-weight: 900;
+        }
+    }
+
+    &-thumbnail {
+        .post-list-layout & {
+            a {
+                display: flex;
+            }
+        }
+
+        img {
+            display: block;
+        }
+
+        &.thumbnail-position-top a {
+            display: flex;
+            justify-content: center;
+        }
+    }
+
+    &-buy-now-btn a {
+        background: transparent;
+        color: #000;
+        border: 1px solid #444;
+        transition: .4s;
+    }
+
+    &-multiple-sales-links {
+        .book-also-available-website-list .has-website-image a {
+            display: flex;
+        }
+    }
+}

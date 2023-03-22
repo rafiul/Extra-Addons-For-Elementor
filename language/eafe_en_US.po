@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eafe English\n"
+"POT-Creation-Date: 2022-12-07 09:49+0600\n"
+"PO-Revision-Date: 2022-12-07 09:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__;esc_attr_e;esc_html_e;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extra-addons-for-elementor.php:191
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: extra-addons-for-elementor.php:192 extra-addons-for-elementor.php:216
+#: extra-addons-for-elementor.php:241 extra-addons-for-elementor.php:359
+#: inc/admin/admin.php:5 inc/admin/admin.php:6
+msgid "Extra Addons For Elementor"
+msgstr ""
+
+#: extra-addons-for-elementor.php:193 extra-addons-for-elementor.php:217
+msgid "Elementor"
+msgstr ""
+
+#: extra-addons-for-elementor.php:215 extra-addons-for-elementor.php:240
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: extra-addons-for-elementor.php:242
+msgid "PHP"
+msgstr ""
+
+#: extra-addons-for-elementor.php:350
+msgid "No Comment"
+msgstr ""
+
+#: extra-addons-for-elementor.php:350
+msgid "1 Comment"
+msgstr ""
+
+#: extra-addons-for-elementor.php:350
+msgid "% Comments"
+msgstr ""
+
+#: inc/admin/admin.php:22
+msgid ""
+"This video shows you how you can create a blog page using Extra Addons For "
+"Elementor and Elmentor Page builder plugin."
+msgstr ""
+
+#: inc/admin/admin.php:32
+msgid ""
+"Extra Addons For Elementor Plugin Is Very Much Comportable with the "
+"<strong>Blog Starter Pro</strong> WordPress Theme."
+msgstr ""
+
+#: inc/admin/admin.php:33
+msgid "Blog Starter Pro WordPress Theme"
+msgstr ""
+
+#: inc/admin/admin.php:41
+msgid ""
+"Some Premium WordPress Themes which is very much compatible with the Extra "
+"Addons For Elementor Plugin."
+msgstr ""
+
+#: inc/admin/admin.php:46
+msgid "Craftyblog Pro"
+msgstr ""
+
+#: inc/admin/admin.php:47 inc/admin/admin.php:55 inc/admin/admin.php:63
+msgid "View Details"
+msgstr ""
+
+#: inc/admin/admin.php:54
+msgid "Minimal Blog"
+msgstr ""
+
+#: inc/admin/admin.php:62
+msgid "blog starter"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:55
+msgid "Heading"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:114
+#: widgets/extra-addon-advanced-heading.php:121
+#: widgets/extra-addon-advanced-heading.php:202
+#: widgets/extra-addon-section-title.php:98
+#: widgets/extra-addon-section-title.php:112
+msgid "Title"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:126
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:127
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:134
+msgid "Link"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:149
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:169
+msgid "Alignment"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:173
+#: widgets/extra-addon-post-layouts.php:531
+#: widgets/extra-addon-post-layouts.php:634
+#: widgets/extra-addon-post-overlay-layouts.php:375
+#: widgets/extra-addon-post-overlay-layouts.php:542
+#: widgets/extra-addon-post-sliders.php:831
+msgid "Left"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:177
+#: widgets/extra-addon-post-layouts.php:532
+#: widgets/extra-addon-post-layouts.php:635
+#: widgets/extra-addon-post-overlay-layouts.php:376
+#: widgets/extra-addon-post-overlay-layouts.php:527
+#: widgets/extra-addon-post-overlay-layouts.php:543
+#: widgets/extra-addon-post-sliders.php:816
+#: widgets/extra-addon-post-sliders.php:832
+msgid "Center"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:181
+#: widgets/extra-addon-post-layouts.php:533
+#: widgets/extra-addon-post-layouts.php:636
+#: widgets/extra-addon-post-overlay-layouts.php:377
+#: widgets/extra-addon-post-overlay-layouts.php:544
+#: widgets/extra-addon-post-sliders.php:833
+msgid "Right"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:185
+msgid "Justified"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:210
+#: widgets/extra-addon-author-bio.php:173
+#: widgets/extra-addon-author-bio.php:244
+#: widgets/extra-addon-author-bio.php:316
+#: widgets/extra-addon-author-bio.php:407
+#: widgets/extra-addon-author-bio.php:584
+#: widgets/extra-addon-post-layouts.php:1465
+#: widgets/extra-addon-post-layouts.php:1619
+#: widgets/extra-addon-post-overlay-layouts.php:1025
+#: widgets/extra-addon-post-overlay-layouts.php:1179
+#: widgets/extra-addon-section-title.php:216
+#: widgets/extra-addon-section-title.php:262
+#: widgets/extra-addon-section-title.php:309
+#: widgets/extra-addon-section-title.php:377
+#: widgets/extra-addon-section-title.php:453
+#: widgets/extra-addon-social-icons.php:152
+#: widgets/extra-addon-social-icons.php:329
+msgid "Text Color"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:245
+msgid "Blend Mode"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:248
+#: widgets/extra-addon-author-bio.php:391
+#: widgets/extra-addon-post-layouts.php:557
+#: widgets/extra-addon-post-layouts.php:684
+#: widgets/extra-addon-post-layouts.php:872
+#: widgets/extra-addon-post-layouts.php:1053
+#: widgets/extra-addon-post-layouts.php:1287
+#: widgets/extra-addon-post-layouts.php:1452
+#: widgets/extra-addon-post-overlay-layouts.php:603
+#: widgets/extra-addon-post-overlay-layouts.php:792
+#: widgets/extra-addon-post-overlay-layouts.php:1012
+#: widgets/extra-addon-post-sliders.php:892
+#: widgets/extra-addon-post-sliders.php:1081
+#: widgets/extra-addon-post-sliders.php:1300
+#: widgets/extra-addon-section-title.php:359
+#: widgets/extra-addon-social-icons.php:136
+msgid "Normal"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:271
+#: widgets/extra-addon-author-bio.php:208
+#: widgets/extra-addon-author-bio.php:279
+#: widgets/extra-addon-author-bio.php:351
+#: widgets/extra-addon-post-layouts.php:897
+#: widgets/extra-addon-post-layouts.php:1014
+#: widgets/extra-addon-post-layouts.php:1117
+#: widgets/extra-addon-post-layouts.php:1247
+#: widgets/extra-addon-post-layouts.php:1349
+#: widgets/extra-addon-post-layouts.php:1583
+#: widgets/extra-addon-post-overlay-layouts.php:637
+#: widgets/extra-addon-post-overlay-layouts.php:753
+#: widgets/extra-addon-post-overlay-layouts.php:855
+#: widgets/extra-addon-post-overlay-layouts.php:974
+#: widgets/extra-addon-post-overlay-layouts.php:1143
+#: widgets/extra-addon-post-sliders.php:926
+#: widgets/extra-addon-post-sliders.php:1042
+#: widgets/extra-addon-post-sliders.php:1144
+#: widgets/extra-addon-post-sliders.php:1263
+#: widgets/extra-addon-post-sliders.php:1363
+msgid "Padding"
+msgstr ""
+
+#: widgets/extra-addon-advanced-heading.php:283
+#: widgets/extra-addon-author-bio.php:220
+#: widgets/extra-addon-author-bio.php:291
+#: widgets/extra-addon-author-bio.php:363
+#: widgets/extra-addon-post-layouts.php:909
+#: widgets/extra-addon-post-layouts.php:1026
+#: widgets/extra-addon-post-layouts.php:1129
+#: widgets/extra-addon-post-layouts.php:1259
+#: widgets/extra-addon-post-layouts.php:1361
+#: widgets/extra-addon-post-overlay-layouts.php:649
+#: widgets/extra-addon-post-overlay-layouts.php:765
+#: widgets/extra-addon-post-overlay-layouts.php:867
+#: widgets/extra-addon-post-overlay-layouts.php:986
+#: widgets/extra-addon-post-sliders.php:355
+#: widgets/extra-addon-post-sliders.php:938
+#: widgets/extra-addon-post-sliders.php:1054
+#: widgets/extra-addon-post-sliders.php:1156
+#: widgets/extra-addon-post-sliders.php:1275
+#: widgets/extra-addon-post-sliders.php:1375
+msgid "Margin"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:42
+msgid "Author Bio"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:92
+#: widgets/extra-addon-section-title.php:92
+#: widgets/extra-addon-social-icons.php:92
+msgid "Content"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:99
+msgid "Author Image"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:118
+msgid "Name"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:120
+msgid "Abdullah Al Imran"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:128
+msgid "Profession"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:130
+msgid "WordPress Developer"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:138
+#: widgets/extra-addon-section-title.php:136
+msgid "Description"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:140
+msgid ""
+"Hi, I am Abdullah Al Imran an full stack professional WordPress developer. "
+"Contributor of WordPress plugins and themes development market. "
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:148
+msgid "Show Social Links"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:150
+#: widgets/extra-addon-post-layouts.php:231
+#: widgets/extra-addon-post-layouts.php:244
+#: widgets/extra-addon-post-layouts.php:369
+#: widgets/extra-addon-post-layouts.php:417
+#: widgets/extra-addon-post-layouts.php:445
+#: widgets/extra-addon-post-layouts.php:457
+#: widgets/extra-addon-post-layouts.php:489
+#: widgets/extra-addon-post-layouts.php:951
+#: widgets/extra-addon-post-overlay-layouts.php:236
+#: widgets/extra-addon-post-overlay-layouts.php:255
+#: widgets/extra-addon-post-overlay-layouts.php:266
+#: widgets/extra-addon-post-overlay-layouts.php:292
+#: widgets/extra-addon-post-overlay-layouts.php:320
+#: widgets/extra-addon-post-overlay-layouts.php:333
+#: widgets/extra-addon-post-overlay-layouts.php:683
+#: widgets/extra-addon-post-sliders.php:211
+#: widgets/extra-addon-post-sliders.php:230
+#: widgets/extra-addon-post-sliders.php:241
+#: widgets/extra-addon-post-sliders.php:269
+#: widgets/extra-addon-post-sliders.php:298
+#: widgets/extra-addon-post-sliders.php:311
+#: widgets/extra-addon-post-sliders.php:493
+#: widgets/extra-addon-post-sliders.php:504
+#: widgets/extra-addon-post-sliders.php:971
+#: widgets/extra-addon-section-title.php:151
+#: widgets/extra-addon-section-title.php:191
+msgid "Show"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:151
+#: widgets/extra-addon-post-layouts.php:232
+#: widgets/extra-addon-post-layouts.php:245
+#: widgets/extra-addon-post-layouts.php:370
+#: widgets/extra-addon-post-layouts.php:418
+#: widgets/extra-addon-post-layouts.php:446
+#: widgets/extra-addon-post-layouts.php:458
+#: widgets/extra-addon-post-layouts.php:490
+#: widgets/extra-addon-post-layouts.php:952
+#: widgets/extra-addon-post-overlay-layouts.php:237
+#: widgets/extra-addon-post-overlay-layouts.php:256
+#: widgets/extra-addon-post-overlay-layouts.php:267
+#: widgets/extra-addon-post-overlay-layouts.php:293
+#: widgets/extra-addon-post-overlay-layouts.php:321
+#: widgets/extra-addon-post-overlay-layouts.php:334
+#: widgets/extra-addon-post-overlay-layouts.php:684
+#: widgets/extra-addon-post-sliders.php:212
+#: widgets/extra-addon-post-sliders.php:231
+#: widgets/extra-addon-post-sliders.php:242
+#: widgets/extra-addon-post-sliders.php:270
+#: widgets/extra-addon-post-sliders.php:299
+#: widgets/extra-addon-post-sliders.php:312
+#: widgets/extra-addon-post-sliders.php:494
+#: widgets/extra-addon-post-sliders.php:505
+#: widgets/extra-addon-post-sliders.php:972
+#: widgets/extra-addon-section-title.php:152
+#: widgets/extra-addon-section-title.php:192
+msgid "Hide"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:165
+msgid "Author Name"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:236
+msgid "Author Profession"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:308
+msgid "Author Description"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:380
+#: widgets/extra-addon-social-icons.php:115
+#: widgets/extra-addon-social-icons.php:125
+msgid "Social Links"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:397
+#: widgets/extra-addon-author-bio.php:574
+#: widgets/extra-addon-section-title.php:366
+#: widgets/extra-addon-section-title.php:442
+#: widgets/extra-addon-social-icons.php:142
+#: widgets/extra-addon-social-icons.php:319
+msgid "Background Color"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:418
+#: widgets/extra-addon-social-icons.php:163
+msgid "Font Size"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:452
+#: widgets/extra-addon-social-icons.php:197
+msgid "Icon Width"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:486
+#: widgets/extra-addon-social-icons.php:231
+msgid "Icon Height"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:520
+#: widgets/extra-addon-post-layouts.php:820
+#: widgets/extra-addon-post-layouts.php:845
+#: widgets/extra-addon-post-layouts.php:1098
+#: widgets/extra-addon-post-layouts.php:1185
+#: widgets/extra-addon-post-layouts.php:1330
+#: widgets/extra-addon-post-layouts.php:1417
+#: widgets/extra-addon-post-layouts.php:1497
+#: widgets/extra-addon-post-overlay-layouts.php:511
+#: widgets/extra-addon-post-overlay-layouts.php:581
+#: widgets/extra-addon-post-overlay-layouts.php:836
+#: widgets/extra-addon-post-overlay-layouts.php:924
+#: widgets/extra-addon-post-overlay-layouts.php:1057
+#: widgets/extra-addon-post-sliders.php:800
+#: widgets/extra-addon-post-sliders.php:870
+#: widgets/extra-addon-post-sliders.php:1125
+#: widgets/extra-addon-post-sliders.php:1213
+#: widgets/extra-addon-post-sliders.php:1344
+#: widgets/extra-addon-post-sliders.php:1432
+#: widgets/extra-addon-post-sliders.php:1493
+#: widgets/extra-addon-post-sliders.php:1589
+#: widgets/extra-addon-social-icons.php:265
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:531
+#: widgets/extra-addon-social-icons.php:276
+msgid "Icon Padding"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:543
+#: widgets/extra-addon-social-icons.php:288
+msgid "Icon Margin Between"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:555
+#: widgets/extra-addon-social-icons.php:300
+msgid "Wrapper Margin"
+msgstr ""
+
+#: widgets/extra-addon-author-bio.php:568
+#: widgets/extra-addon-post-layouts.php:647
+#: widgets/extra-addon-post-layouts.php:832
+#: widgets/extra-addon-post-layouts.php:1142
+#: widgets/extra-addon-post-layouts.php:1374
+#: widgets/extra-addon-post-layouts.php:1613
+#: widgets/extra-addon-post-overlay-layouts.php:662
+#: widgets/extra-addon-post-overlay-layouts.php:880
+#: widgets/extra-addon-post-overlay-layouts.php:1173
+#: widgets/extra-addon-post-sliders.php:951
+#: widgets/extra-addon-post-sliders.php:1169
+#: widgets/extra-addon-post-sliders.php:1388
+#: widgets/extra-addon-section-title.php:435
+#: widgets/extra-addon-social-icons.php:313
+msgid "Hover"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:42
+msgid "POST LAYOUTS"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:86
+#: widgets/extra-addon-post-overlay-layouts.php:88
+#: widgets/extra-addon-post-sliders.php:88
+msgid "Query"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:96
+#: widgets/extra-addon-post-overlay-layouts.php:98
+#: widgets/extra-addon-post-sliders.php:99
+msgid "Include"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:107
+#: widgets/extra-addon-post-overlay-layouts.php:110
+msgid "Select Categories"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:118
+#: widgets/extra-addon-post-overlay-layouts.php:120
+#: widgets/extra-addon-post-sliders.php:122
+msgid "Include Authors"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:119
+#: widgets/extra-addon-post-layouts.php:152
+#: widgets/extra-addon-post-overlay-layouts.php:121
+#: widgets/extra-addon-post-overlay-layouts.php:152
+#: widgets/extra-addon-post-sliders.php:123
+msgid "Insert Author ID seperated by Comma."
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:133
+#: widgets/extra-addon-post-overlay-layouts.php:134
+#: widgets/extra-addon-post-sliders.php:135
+msgid "Exclude"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:139
+#: widgets/extra-addon-post-overlay-layouts.php:140
+#: widgets/extra-addon-post-sliders.php:141
+msgid "Exclude Categories"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:140
+#: widgets/extra-addon-post-overlay-layouts.php:141
+msgid "Insert Category ID seperatef by Comma."
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:151
+#: widgets/extra-addon-post-overlay-layouts.php:151
+msgid "Exclude Authors"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:162
+#: widgets/extra-addon-post-overlay-layouts.php:162
+#: widgets/extra-addon-post-sliders.php:164
+msgid "Offset"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:178
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:190
+#: widgets/extra-addon-post-overlay-layouts.php:187
+#: widgets/extra-addon-post-sliders.php:189
+msgid "Ignore Sticky Post?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:192
+#: widgets/extra-addon-post-overlay-layouts.php:189
+#: widgets/extra-addon-post-sliders.php:191
+msgid "YES"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:193
+#: widgets/extra-addon-post-overlay-layouts.php:190
+#: widgets/extra-addon-post-sliders.php:192
+msgid "NO"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:204
+#: widgets/extra-addon-post-overlay-layouts.php:200
+msgid "Layout"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:211
+#: widgets/extra-addon-post-overlay-layouts.php:207
+msgid "Posts Columns"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:217
+#: widgets/extra-addon-post-overlay-layouts.php:213
+msgid "One Column"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:218
+#: widgets/extra-addon-post-overlay-layouts.php:214
+msgid "Two Column"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:219
+#: widgets/extra-addon-post-overlay-layouts.php:215
+msgid "Three Column"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:220
+#: widgets/extra-addon-post-overlay-layouts.php:216
+msgid "Four Column"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:221
+#: widgets/extra-addon-post-overlay-layouts.php:217
+msgid "Six Column"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:229
+msgid "Masonry Layout?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:242
+#: widgets/extra-addon-post-overlay-layouts.php:234
+msgid "Show Thumbnail?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:254
+msgid "Thumbnail Position"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:260
+msgid "Thumbnail Left"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:261
+msgid "Thumbnail Top"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:262
+msgid "Thumbnail Right"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:272
+msgid "Thumbnail Column Width"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:309
+msgid "Content Column Width"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:360
+#: widgets/extra-addon-post-overlay-layouts.php:227
+msgid "Post Element On//Off"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:367
+#: widgets/extra-addon-post-overlay-layouts.php:290
+#: widgets/extra-addon-post-sliders.php:267
+msgid "Show Post Meta?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:379
+#: widgets/extra-addon-post-layouts.php:1207
+#: widgets/extra-addon-post-overlay-layouts.php:302
+#: widgets/extra-addon-post-sliders.php:279
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:384
+#: widgets/extra-addon-post-overlay-layouts.php:306
+#: widgets/extra-addon-post-sliders.php:283
+msgid "Author"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:385
+#: widgets/extra-addon-post-overlay-layouts.php:307
+#: widgets/extra-addon-post-sliders.php:284
+msgid "Date"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:386
+#: widgets/extra-addon-post-sliders.php:285
+msgid "Comments"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:397
+msgid "Meta Position"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:405
+msgid "Bellow Post Title"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:406
+msgid "Bellow Post Excerpt"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:407
+msgid "Bellow Read More Button"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:408
+msgid "Bellow Post Thumbnail"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:415
+#: widgets/extra-addon-post-overlay-layouts.php:264
+#: widgets/extra-addon-post-sliders.php:239
+msgid "Show Excerpt?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:427
+#: widgets/extra-addon-post-overlay-layouts.php:276
+#: widgets/extra-addon-post-sliders.php:252
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:443
+#: widgets/extra-addon-post-overlay-layouts.php:253
+#: widgets/extra-addon-post-sliders.php:228
+msgid "Show Title?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:455
+#: widgets/extra-addon-post-overlay-layouts.php:318
+#: widgets/extra-addon-post-sliders.php:296
+msgid "Show Category?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:467
+msgid "Category Position"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:475
+msgid "Top Left Corner"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:476
+msgid "Top Right Corner"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:477
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:478
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:479
+msgid "Above Post Title"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:480
+msgid "Half Over Thumbnail"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:487
+#: widgets/extra-addon-post-overlay-layouts.php:331
+#: widgets/extra-addon-post-sliders.php:309
+msgid "Show Read More Button?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:500
+#: widgets/extra-addon-post-overlay-layouts.php:344
+#: widgets/extra-addon-post-sliders.php:322
+#: widgets/extra-addon-section-title.php:163
+msgid "Button Text"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:502
+#: widgets/extra-addon-post-overlay-layouts.php:346
+#: widgets/extra-addon-post-sliders.php:324
+msgid "Read More"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:512
+#: widgets/extra-addon-post-layouts.php:1440
+#: widgets/extra-addon-post-overlay-layouts.php:356
+#: widgets/extra-addon-post-overlay-layouts.php:1000
+msgid "Pagination"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:516
+#: widgets/extra-addon-post-overlay-layouts.php:360
+msgid "None"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:517
+#: widgets/extra-addon-post-overlay-layouts.php:361
+msgid "Number"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:518
+#: widgets/extra-addon-post-overlay-layouts.php:362
+msgid "Next / Prev"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:526
+#: widgets/extra-addon-post-overlay-layouts.php:370
+msgid "Pagination Alignment"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:547
+msgid "Box"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:566
+#: widgets/extra-addon-post-layouts.php:654
+msgid "Box Background"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:576
+#: widgets/extra-addon-post-layouts.php:663
+#: widgets/extra-addon-post-layouts.php:1509
+#: widgets/extra-addon-post-overlay-layouts.php:1069
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:584
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:596
+msgid "Item Padding"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:608
+msgid "Item Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:630
+msgid "Text AlignMent"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:674
+#: widgets/extra-addon-post-overlay-layouts.php:558
+msgid "Post Thumbnail"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:691
+#: widgets/extra-addon-post-layouts.php:1517
+#: widgets/extra-addon-post-overlay-layouts.php:1077
+#: widgets/extra-addon-post-sliders.php:1504
+#: widgets/extra-addon-post-sliders.php:1600
+msgid "Width"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:726
+msgid "Max Width"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:761
+#: widgets/extra-addon-post-layouts.php:1550
+#: widgets/extra-addon-post-overlay-layouts.php:1110
+#: widgets/extra-addon-post-sliders.php:1526
+#: widgets/extra-addon-post-sliders.php:1622
+msgid "Height"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:792
+msgid "Object Fit"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:798
+msgid "Default"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:799
+msgid "Fill"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:800
+msgid "Cover"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:801
+msgid "Contain"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:859
+#: widgets/extra-addon-post-overlay-layouts.php:593
+msgid "Post Title"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:886
+#: widgets/extra-addon-post-overlay-layouts.php:617
+#: widgets/extra-addon-post-overlay-layouts.php:669
+#: widgets/extra-addon-post-sliders.php:906
+#: widgets/extra-addon-post-sliders.php:958
+msgid "Title Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:923
+msgid "hover"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:929
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:941
+#: widgets/extra-addon-post-layouts.php:1007
+#: widgets/extra-addon-post-layouts.php:1110
+#: widgets/extra-addon-post-layouts.php:1197
+#: widgets/extra-addon-post-layouts.php:1342
+#: widgets/extra-addon-post-layouts.php:1429
+#: widgets/extra-addon-post-overlay-layouts.php:630
+#: widgets/extra-addon-post-overlay-layouts.php:709
+#: widgets/extra-addon-post-overlay-layouts.php:746
+#: widgets/extra-addon-post-overlay-layouts.php:848
+#: widgets/extra-addon-post-overlay-layouts.php:967
+#: widgets/extra-addon-post-sliders.php:919
+#: widgets/extra-addon-post-sliders.php:998
+#: widgets/extra-addon-post-sliders.php:1035
+#: widgets/extra-addon-post-sliders.php:1137
+#: widgets/extra-addon-post-sliders.php:1256
+#: widgets/extra-addon-post-sliders.php:1356
+#: widgets/extra-addon-post-sliders.php:1444
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:949
+#: widgets/extra-addon-post-overlay-layouts.php:681
+#: widgets/extra-addon-post-sliders.php:969
+msgid "Show Border?"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:962
+#: widgets/extra-addon-post-overlay-layouts.php:693
+#: widgets/extra-addon-post-sliders.php:982
+msgid "Border Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:978
+msgid "Post Excerpt"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:995
+#: widgets/extra-addon-post-overlay-layouts.php:734
+#: widgets/extra-addon-post-sliders.php:1023
+msgid "Description Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1040
+#: widgets/extra-addon-post-overlay-layouts.php:779
+msgid "Post category"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1066
+#: widgets/extra-addon-post-layouts.php:1155
+#: widgets/extra-addon-post-overlay-layouts.php:805
+#: widgets/extra-addon-post-overlay-layouts.php:893
+#: widgets/extra-addon-post-sliders.php:1094
+#: widgets/extra-addon-post-sliders.php:1182
+msgid "Category Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1077
+#: widgets/extra-addon-post-layouts.php:1166
+#: widgets/extra-addon-post-overlay-layouts.php:816
+#: widgets/extra-addon-post-overlay-layouts.php:904
+#: widgets/extra-addon-post-sliders.php:1105
+#: widgets/extra-addon-post-sliders.php:1193
+msgid "Category Background"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1224
+msgid "Meta Text Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1235
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1274
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1300
+#: widgets/extra-addon-post-layouts.php:1387
+#: widgets/extra-addon-post-sliders.php:1313
+#: widgets/extra-addon-post-sliders.php:1401
+msgid "Button Color"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1311
+#: widgets/extra-addon-post-layouts.php:1398
+#: widgets/extra-addon-post-sliders.php:1324
+#: widgets/extra-addon-post-sliders.php:1412
+msgid "Button Background"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1476
+#: widgets/extra-addon-post-layouts.php:1630
+#: widgets/extra-addon-post-overlay-layouts.php:1036
+#: widgets/extra-addon-post-overlay-layouts.php:1190
+msgid "Background"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1599
+#: widgets/extra-addon-post-overlay-layouts.php:1159
+msgid "Pagination Section Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1795
+#: widgets/extra-addon-post-layouts.php:1869
+msgid ", "
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1798
+#: widgets/extra-addon-post-layouts.php:1872
+#: widgets/extra-addon-post-overlay-layouts.php:1344
+#: widgets/extra-addon-post-sliders.php:1813
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1909
+#: widgets/extra-addon-post-overlay-layouts.php:1419
+msgid "Older Posts"
+msgstr ""
+
+#: widgets/extra-addon-post-layouts.php:1910
+#: widgets/extra-addon-post-overlay-layouts.php:1420
+msgid "Newer Posts"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:44
+msgid "Post Overlay Layout"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:175
+#: widgets/extra-addon-post-sliders.php:177
+msgid "Post Count"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:391
+msgid "Post Settings"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:399
+msgid "Post Height"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:423
+msgid "Show Post Overlay"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:434
+msgid "Post Overlay"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:439
+msgid "Post Overlay Color"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:450
+msgid "Post Box Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:464
+msgid "Post Content Box"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:473
+msgid "Post Content Background"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:479
+msgid "Post Content Box Background"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:487
+#: widgets/extra-addon-post-sliders.php:776
+msgid "Content Box Padding"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:499
+#: widgets/extra-addon-post-sliders.php:788
+msgid "Content Box Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:522
+#: widgets/extra-addon-post-sliders.php:811
+msgid "Content Alignment Verticle"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:526
+#: widgets/extra-addon-post-sliders.php:815
+msgid "TOP"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:528
+#: widgets/extra-addon-post-sliders.php:817
+msgid "Bottom"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:538
+#: widgets/extra-addon-post-sliders.php:827
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:573
+#: widgets/extra-addon-post-sliders.php:862
+msgid "Thumbnail Background"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:719
+msgid "Post Description"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:938
+msgid "Post Post Meta"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:955
+#: widgets/extra-addon-post-sliders.php:1244
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/extra-addon-post-overlay-layouts.php:1341
+#: widgets/extra-addon-post-sliders.php:1810
+msgid " "
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:44
+msgid "Blog Posts Sliders"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:111
+msgid "Include Categories"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:142
+msgid "Insert Category ID and seperated by Comma."
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:153
+msgid "Exclude Author"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:154
+msgid "Insert Author ID and seperated by Comma."
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:202
+msgid "Slider Element On//Off"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:209
+msgid "Show Thumbnail ?"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:337
+msgid "Slides Settings"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:344
+msgid "Slide To Show"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:374
+msgid "Smart Speed"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:393
+msgid "Fluid Speed"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:412
+msgid "Auto Play Speed"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:431
+msgid "Nav Speed"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:450
+msgid "Dots Speed"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:469
+msgid "Center Mode True?"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:471
+#: widgets/extra-addon-post-sliders.php:482
+#: widgets/extra-addon-post-sliders.php:515
+#: widgets/extra-addon-post-sliders.php:526
+#: widgets/extra-addon-post-sliders.php:537
+#: widgets/extra-addon-post-sliders.php:548
+msgid "Yes"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:472
+#: widgets/extra-addon-post-sliders.php:483
+#: widgets/extra-addon-post-sliders.php:516
+#: widgets/extra-addon-post-sliders.php:527
+#: widgets/extra-addon-post-sliders.php:538
+#: widgets/extra-addon-post-sliders.php:549
+msgid "No"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:480
+msgid "Auto Play Hover"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:491
+msgid "Navigation Arrow"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:502
+msgid "Dots"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:513
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:524
+msgid "Loop"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:535
+msgid "Mouse Drag"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:546
+msgid "Touch Drag"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:557
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:564
+msgid "5 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:565
+msgid "10 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:566
+msgid "15 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:567
+msgid "20 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:568
+msgid "25 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:569
+msgid "30 Seconds"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:578
+msgid "Responsive Settings"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:585
+msgid "Mobile Screen for 360px"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:596
+msgid "Mobile Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:616
+#: widgets/extra-addon-post-sliders.php:654
+msgid "Label"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:622
+msgid "Tablet Screen for 768px"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:634
+#: widgets/extra-addon-post-sliders.php:672
+msgid "Tablet Margin"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:660
+msgid "Tablet Screen for 992px - 1200"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:694
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:701
+msgid "Slider Height"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:724
+msgid "Show Slider Overlay"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:735
+msgid "Slider Overlay"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:740
+msgid "Slider Overlay Color"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:753
+msgid "Slider Content Box"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:762
+msgid "Slider Content Background"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:768
+msgid "Slider Content Box Background"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:847
+msgid "Slider Thumbnail"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:882
+msgid "Slider Title"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1008
+msgid "Slider Description"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1068
+msgid "Slider category"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1227
+msgid "Slider Post Meta"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1290
+msgid "Slider button"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1454
+msgid "Slider navigation"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1462
+msgid "Navigation Color"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1473
+msgid "Navigation Background"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1550
+msgid "Slider Dots"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1558
+msgid "Dots Background"
+msgstr ""
+
+#: widgets/extra-addon-post-sliders.php:1569
+msgid "Active Background"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:42
+msgid "Section Title"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:102
+msgid "Blog Default"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:103
+msgid "Blog Classic"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:104
+msgid "Corporate Title"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:114
+msgid "Title Here"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:123
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:125
+msgid "Subtitle Here"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:138
+msgid "Descriptions Here"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:149
+msgid "Show Button"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:165
+msgid "View All"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:176
+msgid "Button Link"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:178
+msgid "#"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:189
+msgid "Show Button Icon"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:208
+msgid "Mian Heading"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:254
+msgid "Sub Heading"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:301
+msgid "Descriptions"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:348
+msgid "Button"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:410
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/extra-addon-section-title.php:422
+msgid "Button Margin"
+msgstr ""
+
+#: widgets/extra-addon-social-icons.php:42
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/extra-addon-social-icons.php:99
+msgid "Icon"
+msgstr ""
+
+#: widgets/extra-addon-social-icons.php:106
+msgid "Social Link"
+msgstr ""

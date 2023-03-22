@@ -1,0 +1,47 @@
+.eaab_wrapper {
+
+    h4,
+    h5,
+    p,
+    img {
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .eaab_name {
+        padding-bottom: 5px;
+    }
+
+    h5 {
+        font-size: 1rem;
+        color: #444;
+    }
+
+    .eaab_profession {
+        margin-bottom: 15px;
+    }
+
+    .eaab_content_wrapper {
+        padding: 30px;
+    }
+
+    .eaab_links {
+        display: flex;
+        justify-content: center;
+        margin: 20px 0 0 0;
+
+        .social-link {
+            margin: 0 5px;
+
+            a {
+                color: #444444;
+                transition: .4s;
+                text-align: center;
+                &:hover{
+                    color: #fb4747;
+                }
+            }
+        }
+    }
+}

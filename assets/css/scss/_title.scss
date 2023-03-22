@@ -1,0 +1,53 @@
+.extra-addon-section-title {
+    &__subtitle {
+        h4 {
+            font-size: 1.3rem;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    &__main-title {
+        margin: 10px 0;
+
+        h2 {
+            font-size: 2.8rem;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    &__descriptions {
+        p {
+            font-size: 1rem;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    &__blog-title-wrapper {
+        h2 {
+            margin: 0;
+            padding: 0;
+            font-size: 1.4rem
+        }
+    }
+
+    &__blog-title-button {
+        a {
+            padding: 5px;
+            text-transform: uppercase;
+            color: #000;
+            font-weight: 700;
+            transition: .4s;
+            transition: .4;
+            i {
+                margin-left: 8px;
+            }
+        }
+    }
+}
+
+.eafe-heading-title{
+    margin: 0;
+}
